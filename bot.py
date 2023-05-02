@@ -8,7 +8,7 @@ from flask import Flask
 # Replace with your own Telegram API credentials
 api_id = 3477714
 api_hash = '1264d2d7d397c4635147ee25ab5808d1'
-bot_token = '6137395797:AAEpjPO-6cU_2QcX-yDEGP_j0J4tS2go_HM'
+bot_token = '6280315266:AAESKGYVWVlfcKW5XYQobzW_l50wbe73zyM'
 
 # Initialize the Telegram bot
 bot = TelegramClient('bot', api_id, api_hash)
